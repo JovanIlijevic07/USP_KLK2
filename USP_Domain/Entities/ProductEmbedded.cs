@@ -1,0 +1,21 @@
+﻿using MongoDB.Entities;
+
+namespace USP_Domain.Entities;
+
+public class ProductEmbedded:Entity
+{
+    public string Name { get; set; }
+    public string Description { get; set; }
+    public decimal Price { get; set; }
+    
+    public User User { get; set; }
+    
+    public User ReferencedOneToOneUser { get; set; }
+
+    public List<User> ReferencedOneToManyUser { get; set; }
+    
+    [OwnerSide]
+    public List<User> ReferencedManyToManyUser { get; set; }
+
+    
+}

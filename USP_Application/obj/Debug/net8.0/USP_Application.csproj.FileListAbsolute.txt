@@ -1,0 +1,15 @@
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\bin\Debug\net8.0\USP_Application.deps.json
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\bin\Debug\net8.0\USP_Application.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\bin\Debug\net8.0\USP_Application.pdb
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\USP_Application.csproj.AssemblyReference.cache
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\USP_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\USP_Application.AssemblyInfoInputs.cache
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\USP_Application.AssemblyInfo.cs
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\USP_Application.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\USP_Application.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\refint\USP_Application.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\USP_Application.pdb
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\ref\USP_Application.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\bin\Debug\net8.0\USP_Domain.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\bin\Debug\net8.0\USP_Domain.pdb
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Application\obj\Debug\net8.0\USP_Appl.F3A2A832.Up2Date

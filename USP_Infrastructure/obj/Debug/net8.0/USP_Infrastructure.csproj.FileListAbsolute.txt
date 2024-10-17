@@ -1,0 +1,17 @@
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\bin\Debug\net8.0\USP_Infrastructure.deps.json
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\bin\Debug\net8.0\USP_Infrastructure.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\bin\Debug\net8.0\USP_Infrastructure.pdb
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\bin\Debug\net8.0\USP_Application.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\bin\Debug\net8.0\USP_Domain.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\bin\Debug\net8.0\USP_Application.pdb
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\bin\Debug\net8.0\USP_Domain.pdb
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\USP_Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\USP_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\USP_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\USP_Infrastructure.AssemblyInfo.cs
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\USP_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\USP_Infr.84333498.Up2Date
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\USP_Infrastructure.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\refint\USP_Infrastructure.dll
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\USP_Infrastructure.pdb
+C:\Users\Jovan\RiderProjects\WebApplication1\USP_Infrastructure\obj\Debug\net8.0\ref\USP_Infrastructure.dll
