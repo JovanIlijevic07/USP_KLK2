@@ -1217,11 +1217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Application\\USP_Application.csproj",
+      "projectUniqueName": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Application\\USP_Application.csproj",
       "projectName": "USP_Application",
-      "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Application\\USP_Application.csproj",
+      "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Application\\USP_Application.csproj",
       "packagesPath": "C:\\Users\\Jovan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Application\\obj\\",
+      "outputPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jovan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1236,8 +1236,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Domain\\USP_Domain.csproj": {
-              "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Domain\\USP_Domain.csproj"
+            "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Domain\\USP_Domain.csproj": {
+              "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Domain\\USP_Domain.csproj"
             }
           }
         }
