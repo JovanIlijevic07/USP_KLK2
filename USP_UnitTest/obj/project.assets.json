@@ -8959,11 +8959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_UnitTest\\USP_UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_UnitTest\\USP_UnitTest.csproj",
       "projectName": "USP_UnitTest",
-      "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_UnitTest\\USP_UnitTest.csproj",
+      "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_UnitTest\\USP_UnitTest.csproj",
       "packagesPath": "C:\\Users\\Jovan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jovan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8978,8 +8978,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_BaseTest\\USP_BaseTest.csproj": {
-              "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_BaseTest\\USP_BaseTest.csproj"
+            "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_BaseTest\\USP_BaseTest.csproj": {
+              "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_BaseTest\\USP_BaseTest.csproj"
             }
           }
         }

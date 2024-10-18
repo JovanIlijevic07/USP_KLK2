@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "slnA7l1NTzk=",
+  "dgSpecHash": "eOjJbJS/lP4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_UnitTest\\USP_UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_UnitTest\\USP_UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jovan\\.nuget\\packages\\ardalis.smartenum\\8.1.0\\ardalis.smartenum.8.1.0.nupkg.sha512",
     "C:\\Users\\Jovan\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Domain\\USP_Domain.csproj": {}
+    "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Domain\\USP_Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Domain\\USP_Domain.csproj": {
+    "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Domain\\USP_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Domain\\USP_Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Domain\\USP_Domain.csproj",
         "projectName": "USP_Domain",
-        "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Domain\\USP_Domain.csproj",
+        "projectPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Domain\\USP_Domain.csproj",
         "packagesPath": "C:\\Users\\Jovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_Domain\\obj\\",
+        "outputPath": "C:\\Users\\Jovan\\RiderProjects\\WebApplication1\\USP_KLK2\\USP_Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jovan\\AppData\\Roaming\\NuGet\\NuGet.Config"
